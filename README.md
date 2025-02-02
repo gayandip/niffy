@@ -1,15 +1,19 @@
 # niffy
-Helps to sort and analyse past EPS and closing price returns
-<br><br>
-There are two csv files and two python files, <strong>newnifty.csv</strong> has the daily data from 1st January 1999 to 11th July 2024, Total 25.5 years of data is present.
-<strong>niftysorted.csv</strong> has the sorted monthwise last date closing data.
-<br><br>
-<strong>sortnifty_data.ipynb</strong> helps to sort month wise data, from all daily data it choose the last trading day of month.
-<br>
-<strong>analysis.ipynb</strong> uses the sorted monthwise data to calculate the absolute past growth of EPS (earnings) and the returns of NIFTY
-<br><br>
-And ofcourse the python codes can be used for all types of indices and shares, nifty data is just an example here.
-<br><br>
+
+## Helps to sort and analyse past earnings and returns
+
+There are two steps to calculate.
+
+- <strong>cleaning phase:</strong> download the raw past prices and valuation data from NSE website and paste those in respective files in the cleaning folder. Now execute the python script and a <strong>"data.csv" in the analysis folder</strong> will be generated where all the sorted data will be stored.
+
+- <strong>analysis phase:</strong> Now manualy paste the desired data in the <strong>"niftysorted.csv"</strong> and execute the analysis script and the result will be generated.
+
+---
+
+Not only nifty it can calculate all index data for PE and price.
+
+### updated upto 31st Jan-2025
+
 gayandip layek
 </br>
 Thanks
