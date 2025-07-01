@@ -1,6 +1,6 @@
 # niffy
 
-## Helps to sort and analyse past earnings and returns
+## Helps to organise, sort and analyse past earnings, networth and returns
 
 There are two steps to calculate.
 
@@ -10,9 +10,24 @@ There are two steps to calculate.
 
 ---
 
-Not only nifty it can calculate all index data.
+## Not only nifty it can calculate all index data
 
-### updated upto 31st Jan-2025
+<label>Nifty 50 and Nifty USD </label><br>
+<img src="./images/nifty50.png" alt="Nifty 50 returns" width="250">
+<img src="./images/nifty-usd.png" alt="Nifty 50 returns" height="217">
+
+<label>Nifty Bank & PVT Bank</label><br>
+<img src="./images/bank-nifty.png" alt="Nifty 50 returns" width="250">
+<img src="./images/nifty-pvt-bank.png" alt="Nifty 50 returns" width="250">
+
+<label>Nifty FMCG and IT</label><br>
+<img src="./images/nifty-fmcg.png" alt="Nifty 50 returns" width="250">
+<img src="./images//nifty-it.png" alt="Nifty 50 returns" width="250">
+
+<label>Nifty Smallcap 250</label><br>
+<img src="./images/smallcap250.png" alt="Nifty 50 returns" width="250">
+
+### updated upto 30th June-2025
 
 gayandip layek
 </br>
